@@ -92,8 +92,9 @@
     <Content Include="app\images\TCO\header6.jpg" />
     <Content Include="app\images\TCO\header7.jpg" />
     <Content Include="app\images\TCO\logo2.jpg" />
-    <Content Include="app\images\TCO\TCO-e-store_banner2.jpg" />
     <Content Include="app\images\TCO\TCO-e-store_banner3.png" />
+    <Content Include="app\images\TCO\TCO-e-store_banner4.jpg" />
+    <Content Include="app\images\TCO\TCO-e-store_banner4.png" />
     <Content Include="app\images\TCO\TCOlightgrey.jpg" />
     <Content Include="app\images\TCO\TCOlogo.jpg" />
     <Content Include="app\index.html" />
